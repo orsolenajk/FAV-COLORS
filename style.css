@@ -12,15 +12,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 180px 0;
+    padding: 200px 0;
 }
 body {
     font-family: 'Serif', sans-serif;
 }
 
 .escola-titulo{
-    font-size: 35px;
+    font-size: 45px;
 }
 .foto-red{
     width: 15%;
 }
+.titulo{
+font-size: 50px;
+    }
+.escola-texto-um{
+        font-size: 40px;
+    }
